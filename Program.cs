@@ -6,3 +6,5 @@ using Microsoft.Extensions.Configuration;
 Service.Use<IConfiguration>(new ConfigurationBuilder().AddJsonFile("appsettings.json").Build());
 
 CMSApplication.Init();
+
+Console.WriteLine("Xperience by Kentico successfully initialized!");
