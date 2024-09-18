@@ -15,6 +15,8 @@ They:
 
 Check out our article for a step-by-step guide for a smooth integration with extended steps to avoid any pitfalls, or go off this repository.
 
-#### As of 6/9/2024 the documentation for Console Application integration has been extended to include the content of our article, thank you Kentico for the provided hotfix 😊
+---
+> As of 5. 9. 2024 the documentation for Console Application integration has been extended and the hotfix streamlining the setup has been released! Thank you Kentico for the provided hotfix 😊
+---
 
 [https://www.bluesoft.cz/en/blog/missing-scheduletasks-in-xperience-by-kentico](https://www.bluesoft.cz/en/blog/set-up-of-console-applications-in-xperience-by-kentico)
